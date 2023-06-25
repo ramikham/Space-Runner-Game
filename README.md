@@ -1,4 +1,4 @@
-# Space-Runner-Game
+# Space Runner Game
 
 This is the first game I made in Unity; it is completed as part of my semester coursework for Computer Games Programming. I used assets from the Unity store, all of which I have referenced below. The mechanics of the game were inpsired by [Brackeys](https://pages.github.com/) amazing tutorial. 
 
