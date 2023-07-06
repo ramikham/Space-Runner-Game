@@ -17,12 +17,18 @@ Upon loading a game level, the player's character-an astronut-immediately begins
 
 
 ## Screenshots
+![Space Runner Screenshot](https://github.com/ramikham/Space-Runner-Game/blob/main/Space%20Runner%20Screenshots/2.png?raw=true)
 
+![Space Runner Screenshot](https://github.com/ramikham/Space-Runner-Game/blob/main/Space%20Runner%20Screenshots/3.png?raw=true)
 
+![Space Runner Screenshot](https://github.com/ramikham/Space-Runner-Game/blob/main/Space%20Runner%20Screenshots/4.png?raw=true)
+
+![Space Runner Screenshot](https://github.com/ramikham/Space-Runner-Game/blob/main/Space%20Runner%20Screenshots/5.png?raw=true)
 
 
 ## Tech Stack 
-
+- C#
+- Unity
 
 
 ## Credits
